@@ -1,0 +1,19 @@
+Order.Previous - Customer can add a basket before buying the product.
+- Customer can order more than one.
+- Customer can track where the order is.
+- If the customer is shopping at a certain price, the cargo is free.
+- Customer receives discounted selected products of the month.
+- Customer can make a product search at the site.
+- Customer can filter the call you made.
+- Customer can vote for products.
+- Customer can switch to the desired page in a certain category.
+- Customer can see his own shopping list.
+- Customer can see past purchases. (?)
+- Customer can search our stores in different cities and districts.
+- Customer earns points based on the amount of shopping he has made.
+- Customers can drop the products they have added to the shopping list.
+- Customer can not have different accounts with same mail address.
+- The Customer membership password has been renewed for 6 months
+- The points earned by the customer are valid for 1 year.
+- Customer can make up to 4 installments on credit with credit card.
+- Customer can not replace the product he bought with another product.
