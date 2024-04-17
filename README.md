@@ -1,2 +1,4 @@
 # MarketingProject
 The purpose of this project is to present a detailed description of the Cosmetic Market System. It will explain the purpose and features of the system, the interfaces of the system, what the system will do, the constraints under which it must operate and how the system will react to external stimuli. This document is intended for both the stakeholders(customers) and the developers of the system.
+**Scope of Project:** This software system will be a Cosmetic Market System.
+From the buyer point of view; seriously avoiding the time-consuming process in terms of the buyer's customer due to the easy comparison and cataloging of products that meet certain standard specifications sought. Generally more favorable price advantage compared to retail stores. This system makes it easier to shop more freely and faster because there are no salesmen like there are in stores. It provides a shopping advantage based on personal preferences.
